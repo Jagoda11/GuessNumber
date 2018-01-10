@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    color: blue;
+    width : 2000px;
+    text-align: center;
+}
+
+h3{
+    font-size: xx-large;
+}
+
+.Button1{
+    font-size: medium;
+    font-family: cursive;
+    color: purple;
+}
